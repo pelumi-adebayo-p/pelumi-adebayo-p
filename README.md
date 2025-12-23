@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Pelumi Adebayo
-- 👀 I’m interested in Robotics and Control
-- 🌱 I’m starting my PhD this fall 2024
+- 👀 I’m interested in Robotics, Controls and ML
 - 💞️ I’m looking to collaborate on research projects, especially in areas of robotics, control, manipulation, and human-robot interaction
 - 📫 Reach me via LinkedIn at Pelumi Adebayo
 
