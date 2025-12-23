@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pelumi Adebayo
 - 👀 I’m interested in Robotics, Controls and ML
-- 💞️ I’m looking to collaborate on research projects, especially in areas of robotics, control, manipulation, and human-robot interaction
+- 💞️ I’m looking to collaborate on research projects, especially in areas of robotics, control, ML and Artificial Intelligence
 - 📫 Reach me via LinkedIn at Pelumi Adebayo
 
 <!---
